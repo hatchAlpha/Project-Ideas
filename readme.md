@@ -1,3 +1,6 @@
+# Project Ideas for Alpha 2016-2017
+Simply a repo of ideas and existing projects and how they can implemented into the Alpha program.
+
 ### A "net" Profit @ CWSF
 > _This project is about predicting the price of the Intel stock, with a neural network. The network uses various inputs to predict the next day's prices. All data in this project was collected via web scrapers that ran everyday. All of the project was coded in Python. Now the network is able to predict stock with a mean error of 0.8% error._
 
