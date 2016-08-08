@@ -28,6 +28,7 @@ Simply a repo of ideas and existing projects and how they can implemented into t
 
 ---
 
-## Inspired ideas:
+## Additional ideas:
   - Fire spreading simulator
   - Self-learning, generational walking model
+  - Game of Thrones Battle prediction (using dataset from Kaggle)
