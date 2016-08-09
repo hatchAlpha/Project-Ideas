@@ -23,3 +23,8 @@
 > _Citymapper is reinventing the everyday urban transit app and making the large complicated city simple and usable. A to B trip planning with real-time departure information on all modes of transit_
 
 > Plan the fastest TTC route to a location by using the virtualearth (Microsoft) API to get traffic reports (https://msdn.microsoft.com/en-us/library/hh441726.aspx)
+
+### Collaborative Whiteboard @ dreamincode.net
+> _Create an application which allows you and friends to collaborate on a white board online. Draw pictures, write notes and use various colors to flesh out ideas for projects. For added complexity try building in picture tubes._
+
+> Not much room for improvement
