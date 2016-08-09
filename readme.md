@@ -41,6 +41,7 @@ Simply a repo of ideas and existing projects and how they can implemented into t
 ### Machine Learning
   - RPG enemy/NPC AI (conversation, movement, trading, etc...)
   - Self-learning, generational walking model (genetic algorithm?)
+  - Browser extension that warns users of possibly malicious, scamming, clickbait, or otherwise annoying content
 
 ### Other
   - Maze/puzzle generator
