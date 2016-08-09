@@ -6,6 +6,7 @@ Other ideas for projects
   - Game of Thrones battle/character death prediction (using dataset from Kaggle)
   - Building demolition simulator
   - Material physics engine
+  - Blackjack/Poker simulator
 
 ### Machine Learning
   - RPG enemy/NPC AI (conversation, movement, trading, etc...)
