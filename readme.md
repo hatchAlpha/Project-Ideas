@@ -19,7 +19,8 @@ Simply a repo of ideas and existing projects and how they can implemented into t
 ### Learn to mine Twitter on a topic @ Analytics Vidha
 > _With help of twitter and a good data science tool, you can find out what the world is saying about a particular topic. I was mesmerized by this, when I did this for the first time. Be it reviews about movies, sentiments about elections or any hot topic off the press – you can know what the people are saying by yourself_
 
-> Create a data mining program to get information about trends in a topic, then parse and analytically present the findings.
+> Create a data mining program to get information about trends in a topic, then parse and analytically present the findings.  
+> Additionally, Twitter bots (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
 
 ### Citymapper
 > _Citymapper is reinventing the everyday urban transit app and making the large complicated city simple and usable. A to B trip planning with real-time departure information on all modes of transit_
@@ -31,7 +32,12 @@ Simply a repo of ideas and existing projects and how they can implemented into t
 ## Additional ideas:
   - Fire spreading simulator
   - Self-learning, generational walking model (genetic algorithm?)
-  - Game of Thrones Battle/Character Death prediction (using dataset from Kaggle)
-  - RPG Enemy/NPC AI (conversation, movement, trading, etc...)
-  - Building Demolition simulator
-  - Material Physics Engline (https://www.youtube.com/watch?v=jrk_lOg_pVA)
+  - Game of Thrones battle/character death prediction (using dataset from Kaggle)
+  - RPG enemy/NPC AI (conversation, movement, trading, etc...)
+  - Building demolition simulator
+  - Material physics engine (https://www.youtube.com/watch?v=jrk_lOg_pVA)
+  - Maze/puzzle generator
+    1. https://www.youtube.com/watch?v=HyK_Q5rrcr4
+    2. https://www.youtube.com/watch?v=D8UgRyRnvXU
+    3. https://www.youtube.com/watch?v=8Ju_uxJ9v44
+  - ASL interpreter using computer vision (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro)
