@@ -27,15 +27,22 @@ Simply a repo of ideas and existing projects and how they can implemented into t
 
 > Plan the fastest TTC route to a location by using the virtualearth (Microsoft) API to get traffic reports (https://msdn.microsoft.com/en-us/library/hh441726.aspx)
 
+[]()
 ---
+[]()
 
-## Additional ideas:
+## Additional ideas
+### Simulation
   - Fire spreading simulator
-  - Self-learning, generational walking model (genetic algorithm?)
   - Game of Thrones battle/character death prediction (using dataset from Kaggle)
-  - RPG enemy/NPC AI (conversation, movement, trading, etc...)
   - Building demolition simulator
   - Material physics engine (https://www.youtube.com/watch?v=jrk_lOg_pVA)
+
+### Machine Learning
+  - RPG enemy/NPC AI (conversation, movement, trading, etc...)
+  - Self-learning, generational walking model (genetic algorithm?)
+
+### Other
   - Maze/puzzle generator
     1. https://www.youtube.com/watch?v=HyK_Q5rrcr4
     2. https://www.youtube.com/watch?v=D8UgRyRnvXU
