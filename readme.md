@@ -30,5 +30,8 @@ Simply a repo of ideas and existing projects and how they can implemented into t
 
 ## Additional ideas:
   - Fire spreading simulator
-  - Self-learning, generational walking model
-  - Game of Thrones Battle prediction (using dataset from Kaggle)
+  - Self-learning, generational walking model (genetic algorithm?)
+  - Game of Thrones Battle/Character Death prediction (using dataset from Kaggle)
+  - RPG Enemy/NPC AI (conversation, movement, trading, etc...)
+  - Building Demolition simulator
+  - Material Physics Engline (https://www.youtube.com/watch?v=jrk_lOg_pVA)
