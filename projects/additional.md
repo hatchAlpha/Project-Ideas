@@ -17,3 +17,4 @@ Other ideas for projects
   - Maze/puzzle generator
   - ASL interpreter using computer vision
   - P2P file sharing app
+  - Scripting language interpreter
