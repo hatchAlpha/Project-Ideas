@@ -17,4 +17,8 @@ Other ideas for projects
   - Maze/puzzle generator
   - ASL interpreter using computer vision
   - P2P file sharing app
+
+### Developer Tools & Related
   - Scripting language interpreter
+  - HTTP RESTful API
+  - Functional library ported to multiple languages
