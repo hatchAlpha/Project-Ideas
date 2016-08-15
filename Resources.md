@@ -22,3 +22,6 @@
 
 #### Terrain Generator
  - https://github.com/mewo2/terrain
+
+#### Useful JS Libraries (if webdev comes into context)
+ - http://emberjs.com/
