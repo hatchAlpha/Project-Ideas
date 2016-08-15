@@ -22,3 +22,4 @@ Other ideas for projects
   - Scripting language interpreter
   - HTTP RESTful API
   - Functional library ported to multiple languages
+  - LaTex parser and equation solver
